@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lamentable newes from Ireland. With the humble petition of your Majesties most faithfull and loyall subjects, the distressed Protestants in your Majesties kingdome of Ireland: concerning His Majesties resolution for that kingdome. Also, a letter sent from the Kings Majestie to the lords of His privie-councell. With a true and perfect relation of the particular passages at York.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88406</idno><idno type="EEBO-CITATION">99860079</idno>
+  <idno type="VID">156785</idno>
+  <idno type="EEBO-PROQUEST">2240881856</idno>
+  
+            <idno type="STC">Wing L275</idno>
+            <idno type="STC">Thomason E152_7</idno>
+            <idno type="STC">ESTC R16698</idno>
+            <idno type="PROQUEST">99860079</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860079e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156785)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E152[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lamentable newes from Ireland. With the humble petition of your Majesties most faithfull and loyall subjects, the distressed Protestants in your Majesties kingdome of Ireland: concerning His Majesties resolution for that kingdome. Also, a letter sent from the Kings Majestie to the lords of His privie-councell. With a true and perfect relation of the particular passages at York.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I). aut</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>June 8. London, Printed for I. Green. and A. Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Includes the text of Charles I letter to the Lords of his Privie Councell, dated: York, the 20. of May. 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Protestants --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642 -1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156785:1"/>
+            <p>LAMENTABLE NEWES FROM IRELAND.</p>
+            <p>WITH The Humble Petition of Your Majesties most faithfull and loyall Subjects, The distressed Protestants in Your Majesties Kingdom of <hi>Ireland:</hi> Concerning His Majesties Resolution for that Kingdome.</p>
+            <p>ALSO, A LETTER SENT FROM THE KINGS MAJESTIE To the Lords of His Privie-Councell.</p>
+            <p>WITH A TRVE AND PERFECT RELATION of the particular Passages at <hi>York</hi>
+            </p>
+            <p>June 8. <hi>London,</hi> Printed for <hi>I. Green,</hi> and <hi>A. Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156785:2"/>
+            <head>A True and Perfect Relation of particular <hi>Pas<g ref="char:EOLhyphen"/>sages at York.</hi>
+            </head>
+            <p>HIs Majesty having summoned the Free-holders of the County of <hi>Yorke,</hi> to appear before him on <hi>Hewarth Moor,</hi> on the day above said, to satisfie them concerning his Intentions, many of them did ap<g ref="char:EOLhyphen"/>peare together with a great multitude of Labourers and poore people, as also divers of the Inhabitants of the County of <hi>Lancaster,</hi> in all ac<g ref="char:EOLhyphen"/>cording to the estimate of my selfe, and divers others of judgement a<g ref="char:EOLhyphen"/>bout the number of seventy thousand or upwards, they came not in any warlike way, nor put themselves into any posture or order, neither was the third part of the Free-holders, and Farmers of <hi>orkeshire</hi> there.</p>
+            <p>His Majesty had appointed 800. foot compleatly armed <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o guard his Person, and about 11. of the clock came to the Field or Moore accom<g ref="char:EOLhyphen"/>panied with a great number of Lords and Knights of great quality.</p>
+            <p>The Prince also led a Troope of Horse consisting of 150 Knights, Es<g ref="char:EOLhyphen"/>quires and Gentlemen, some whereof had foure, some three; and most two men a peece, which made another Troope.</p>
+            <p>As soone as his Majesty came neere the <hi>Moore,</hi> the people did enter<g ref="char:EOLhyphen"/>taine him with a very loud shout, and being come into the Moore, and as much filence made as could be, his Majesty made a Speech, therein declaring his constancie in the Protestant Religion, and his great affecti<g ref="char:EOLhyphen"/>on to that County, intimating that he resolved to recide amongst them in those parts to keep the County in peace. His Speech being ended, he rode round the Moore, and about the number of 65000. followed him, crying all the way (God blesse the King,) but the rest which were about 5000. all Free-holders, separated themselves to Petition to his Majesty, and had their Petition ready to present to him, the effect of it, was to beseech his Majesty to come to the Parliament, &amp;c. but their Petition was intercepted by th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord <hi>Savill,</hi> who carried himselfe very strange<g ref="char:EOLhyphen"/>ly in that particular, and in a forcible manner, suffered them not to deli<g ref="char:EOLhyphen"/>ver the same: His Majesty having rode round the Field, all the people brought him off the Moore with a great shou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and there m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny left him, but 20000. accompanied him to the Court Gate, and saw him safe at Court, and with a great shout left him.</p>
+            <p>A great multitude of the people never came at the Field, but staid in the City, and others came but into the Moore, when the rest came out. And having thus made their appearance about eight of the clock at night all were returned out of the Field.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156785:2"/>
+            <head>To the Kings most Excellent Majestie.</head>
+            <head>The humble Petition of Your Majesties most faithfull and loyall Subiects, the distressed Protestants in Your Majesties Kingdome of <hi>Ireland,</hi> concerning His Majesties Resolu<g ref="char:EOLhyphen"/>tion for that Kingdome.</head>
+            <opener>
+               <salute>Humbly shewing,</salute>
+            </opener>
+            <p>VNto Your most Sacred Majestie, that Your Majesties most faithfull and loyall Subjects, the distressed Prote<g ref="char:EOLhyphen"/>stant party of Your Kingdome of <hi>Ireland,</hi> have, and do suffer a most heavie and cruell tyranny, raised and prosecuted by the rebel<g ref="char:EOLhyphen"/>lious Papists in Your Majesties Kingdom of <hi>Ireland,</hi> to the utter ruine and subversion of our fortunes, liberties and persons. For even so farre hath this hideous <hi>Hidra of Rebellion</hi> proceeded, and their ungratefull treachery hath taken such progresse, that beside their unnaturall rising up in Arms, and their un<g ref="char:EOLhyphen"/>paraled
+<pb facs="tcp:156785:3"/>expressions and detestations against Your Majesties government over them, and against all the <hi>English</hi> Nation; They have spilt (unprovoked) the blood of many thou<g ref="char:EOLhyphen"/>sands of Your Majesties most loyall and faithfull Subjects, and destroyed the Estates of all the Protestants in this your Majesties Kingdome, not sparing unto them out of their inhumane crueltie, the least part of the fruits of their care and industrie, but have most maliciously endeavoured to ruine both them and their posteritie, and (as may ap<g ref="char:EOLhyphen"/>pear by many and severall concurring cir<g ref="char:EOLhyphen"/>cumstances) have by this means laboured (notwithstanding your Majesties continual Grace and Goodnesse unto them when they stood in the condition of good and loyall Subjects, and also your often proffered grace unto them since their Revolt, which their own ingratitude will not let them be sensi<g ref="char:EOLhyphen"/>ble of) even to deprive your Majestie of your Royall Crown and Dignitie, and to place over them some one of their Rebel<g ref="char:EOLhyphen"/>lious faction, or some other forraign Prince, and so altogether to shake off the <hi>English</hi>-government. And whereas your gracious
+<pb facs="tcp:156785:3"/>Majestie out of a just sense of the great mi<g ref="char:EOLhyphen"/>series and afflictions, of Your distressed and oppressed Subjects in Your Kingdome of <hi>Ireland,</hi> occasioned by the barbarous and in<g ref="char:EOLhyphen"/>humane cruelties of the rebellious Papists there, had firmly resolved (by the assistance of the Almighty God) to visit this your di<g ref="char:EOLhyphen"/>stressed Kingdome in your own royall per<g ref="char:EOLhyphen"/>son, for the full and finall suppression of this Rebellion, and out of your Majesties most gracious care and vigilancie unto this Nation to purchase the peace thereof with the hazard of your own loyall person.</p>
+            <p>We Your Majesties most faithfull (al<g ref="char:EOLhyphen"/>though distressed Subjects) out of that duty which becomes the breast of every loyall subject, as also out of the respective desire of your Majesties welfare and securitie, know<g ref="char:EOLhyphen"/>ing that upon Your happinesse consists the felicitie of this and of the rest of Your Ma<g ref="char:EOLhyphen"/>jesties Kingdoms. And also considering the cruell and bloody disposition of those with whom Your Maj. must encounter; Do in all humble and thankful manner, from the bot<g ref="char:EOLhyphen"/>tom of our hearts, and with hearts &amp; bodies prostrate at your Maj. feet, &amp; with the loy<g ref="char:EOLhyphen"/>all duty of faithful subjects, render most har<g ref="char:EOLhyphen"/>ty
+<pb facs="tcp:156785:4"/>thanks for this your Maj. most royal and Princely purpose to relieve your poor di<g ref="char:EOLhyphen"/>stressed Subjects, and to take just and deser<g ref="char:EOLhyphen"/>ved vengeance on the causers of chese cala<g ref="char:EOLhyphen"/>mities, for the vindicating of Your honour, Revenging the blood of so many of Your Majesties most faithfull and loyall Subjects, and the securing the future safety of Your Majesties Crowns and Kingdomes.</p>
+            <p>And we Your Majesties most loyall Sub<g ref="char:EOLhyphen"/>jects, considering the condition of those with whom Your sacred person must deale, to be bloudy, contumacious, and desirous to shake off Your Majesties Government from off them, (and so to forget that duty which Your Grace and Goodnesse hath formerly engaged them to acknowledge and to per<g ref="char:EOLhyphen"/>form for Your Sacred Clemencie expressed to their Errours and Enormities) do hum<g ref="char:EOLhyphen"/>bly beg and beseech you, That you would forbear to hazard your Royall person a<g ref="char:EOLhyphen"/>mong such barbarous Monsters, but that you would rather take speedy and such Or<g ref="char:EOLhyphen"/>der for our Relief, as in Your Princely wis<g ref="char:EOLhyphen"/>dome shall be thought fit and convenient, without the danger of Your Princely person, unto whom the least misfortune cannot be<g ref="char:EOLhyphen"/>fall,
+<pb facs="tcp:156785:4"/>without a generall grief unto all Your most faithfull Subjects, and by that means, your loyall Subjects suffer a greater affliction then the burthen of their present calamities.</p>
+            <p>May it therefore please Your most Sacred Majestie to take these humble and hearty desires of Your Majesties most faithfull and loyall Subjects in<g ref="char:EOLhyphen"/>to your Princely consideration, and out of the loving care and vigilancie which Your Majestie hath alwayes expressed for the Advancement of Your Majesties Subjects their Peace and Pro<g ref="char:EOLhyphen"/>speritie, the danger and hazard of Your Sacred Person.</p>
+            <closer>And we shall pray, as in duty we are, &amp;c.</closer>
+         </div>
+         <div type="letter">
+            <head>A Letter sent from the Kings Majestie, to the Lords of His Privie-Councell</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>RIght trustie and wel-beloved Cousins, and Councellers, we greet you Well. Although We have already Written Our minde to you Our Councell; yet upon Our second thoughts, arising especially from some bad rumours, coming to our knowledge, finde it necessarie both for Our Selfe, and for the good of that Our Kingdome, to declare, and make known both Our disposition and desires more fully.</p>
+            <p>We know and feel the charge to be great, and the place to be high, wherein God (the King of kings) hath placed Us, and that We must render an accompt of all Our actions to him, who in his own time shall judge all men without exce<g ref="char:EOLhyphen"/>ption of persons. We have no other intentions, but by Our government to honour him by whom Kings raign, and to pro<g ref="char:EOLhyphen"/>cure the good of Our People: and for this end to preserve the right and authoritie wherewith God hath vested Us, and
+<pb facs="tcp:156785:5"/>which by his Providence hath been derived to Us, by many Princely progenitors: in the which glory, that Our ancient Kingdome, and native Realm of <hi>Scotlaud</hi> doth participate.</p>
+            <p>We did not require of you, that you should sit as Judges upon the affairs of another Kingdome: We only intended to have both Our sufferings &amp; Our actions, (as they are exprest in many papers past betwixt Us and Our parliament) made throughly known unto you: that since We have none besides you whom wee can acquaint with Our proceedings, you may clearly see that We have been so far from wronging Our Parliament of England, that we have given them all satisfa<g ref="char:EOLhyphen"/>ction, even above that which they themselvs in the beginning did expresse, or almost desire: and as much as could well con<g ref="char:EOLhyphen"/>sist with safety of our person and Honor. We will not put you in minde of your naturall affection toward Us, which We know will rather be kindled then extinguished by Our di<g ref="char:EOLhyphen"/>stresse: Nor of your Covenant, wherein you are zealous of Greatnesse and Authority, and wich standeth in that sense wherein you did sweare and subscribe it: Nor of any good Lawes made in Our late Parliament (of which We hope the present and succeeding generations shall reap the fruits, when We are dead and gone:) Nor of any promises made unto Us, Upon which We were willing to yeild to such things for set<g ref="char:EOLhyphen"/>ling the government of that our kingdome, in Our personall absence which neither could We have granted, nor would you have craved (as your selves did professe) had our greater af<g ref="char:EOLhyphen"/>faires permitted Our residence amongst you. And whereas We are most unjustly blamed and calumniated, 1. That We are popishly affected: 2. That we are the cause of the blood<g ref="char:EOLhyphen"/>shed in <hi>Ireland.</hi> 3. That we intend to bring in forraign for<g ref="char:EOLhyphen"/>ces: We here do protest and declare in presence of him who knowes the most secret of Our intentions and actions, that We are no wayes conscious to Our Self of the guiltinesse of any of the said aspersions: and do take him to witnesse Our innocency therein, who onely hath the priviledge to be the searcher of ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts. And if any, after so full and plain profession, shall distrust this Our free Declaration, We attest God, that the fault is in the malignity of their rebellious humours, and no wayes deserved on our part.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at our Court at</hi> York, <date>
+                     <hi>the</hi> 20. <hi>of May.</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
